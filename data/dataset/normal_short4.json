@@ -1,0 +1,1829 @@
+[
+    {
+        "desc": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 1026
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 2080
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712940563
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://so.csdn.net/so/search?q=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&t=&u=&urw="
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "so.csdn.net"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 681
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "零基础DIY四轴飞行器超级详细保姆级教程（STM32F407ZGT6主控、WIFI图传、陀螺仪平衡、气压计/超声波定高、手机蓝牙控制等功能）_stm32f407四轴-CSDN博客"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "blog.csdn.net"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/qq_45204725/article/details/126166196"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "htmledit_views"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "content_views"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 385.763916015625
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 645
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1803.300000000745
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 59
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 59
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-5",
+        "eventName": "Page Visit",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "4jbbs51zkh",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance poor(FID=645ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 1026
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 2080
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712940563
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://so.csdn.net/so/search?q=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&t=&u=&urw="
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "so.csdn.net"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 681
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "零基础DIY四轴飞行器超级详细保姆级教程（STM32F407ZGT6主控、WIFI图传、陀螺仪平衡、气压计/超声波定高、手机蓝牙控制等功能）_stm32f407四轴-CSDN博客"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "blog.csdn.net"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/qq_45204725/article/details/126166196"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "htmledit_views"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "content_views"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 385.763916015625
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 645
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1803.300000000745
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 59
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 59
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-2",
+        "eventName": "First Interaction",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "4jbbs51zkh",
+        "userId": "56"
+    },
+    {
+        "desc": "Click IMG",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 1026
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 2080
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712940563
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://so.csdn.net/so/search?q=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&t=&u=&urw="
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "so.csdn.net"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 681
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "零基础DIY四轴飞行器超级详细保姆级教程（STM32F407ZGT6主控、WIFI图传、陀螺仪平衡、气压计/超声波定高、手机蓝牙控制等功能）_stm32f407四轴-CSDN博客"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "blog.csdn.net"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/qq_45204725/article/details/126166196"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "htmledit_views"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "content_views"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 385.763916015625
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 645
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1803.300000000745
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 59
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 59
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "4jbbs51zkh",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance good(LCP=1803.300000000745ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 1026
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 2080
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712940563
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://so.csdn.net/so/search?q=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&t=&u=&urw="
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "so.csdn.net"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 681
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "零基础DIY四轴飞行器超级详细保姆级教程（STM32F407ZGT6主控、WIFI图传、陀螺仪平衡、气压计/超声波定高、手机蓝牙控制等功能）_stm32f407四轴-CSDN博客"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "blog.csdn.net"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/qq_45204725/article/details/126166196"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "htmledit_views"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "content_views"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 385.763916015625
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 645
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1803.300000000745
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 59
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 59
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-4",
+        "eventName": "Page Load",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "4jbbs51zkh",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 1026
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 2080
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712940563
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://so.csdn.net/so/search?q=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&t=&u=&urw="
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "so.csdn.net"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 681
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "零基础DIY四轴飞行器超级详细保姆级教程（STM32F407ZGT6主控、WIFI图传、陀螺仪平衡、气压计/超声波定高、手机蓝牙控制等功能）_stm32f407四轴-CSDN博客"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "blog.csdn.net"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/qq_45204725/article/details/126166196"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "htmledit_views"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "content_views"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 385.763916015625
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 645
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1803.300000000745
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 59
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 59
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "4jbbs51zkh",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 1026
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 2080
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712940563
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://so.csdn.net/so/search?q=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&t=&u=&urw="
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "so.csdn.net"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 681
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "零基础DIY四轴飞行器超级详细保姆级教程（STM32F407ZGT6主控、WIFI图传、陀螺仪平衡、气压计/超声波定高、手机蓝牙控制等功能）_stm32f407四轴-CSDN博客"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "blog.csdn.net"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/qq_45204725/article/details/126166196"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "htmledit_views"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "content_views"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 385.763916015625
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 645
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1803.300000000745
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 59
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 59
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "4jbbs51zkh",
+        "userId": "56"
+    },
+    {
+        "desc": "Click LINK BUTTON",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 1026
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 2080
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712940563
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://so.csdn.net/so/search?q=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&t=&u=&urw="
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "so.csdn.net"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 681
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "零基础DIY四轴飞行器超级详细保姆级教程（STM32F407ZGT6主控、WIFI图传、陀螺仪平衡、气压计/超声波定高、手机蓝牙控制等功能）_stm32f407四轴-CSDN博客"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "blog.csdn.net"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/qq_45204725/article/details/126166196"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "htmledit_views"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "content_views"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 385.763916015625
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 645
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1803.300000000745
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 59
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 59
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "4jbbs51zkh",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT 一个基本的四轴飞行器起码需要包含以下功能...",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 1026
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 2080
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712940563
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://so.csdn.net/so/search?q=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&t=&u=&urw="
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "so.csdn.net"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 681
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "零基础DIY四轴飞行器超级详细保姆级教程（STM32F407ZGT6主控、WIFI图传、陀螺仪平衡、气压计/超声波定高、手机蓝牙控制等功能）_stm32f407四轴-CSDN博客"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "blog.csdn.net"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/qq_45204725/article/details/126166196"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "htmledit_views"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "content_views"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 385.763916015625
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 645
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1803.300000000745
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 59
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 59
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "4jbbs51zkh",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT 前言          大四毕业后暑假没...",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 1026
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 2080
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712940563
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://so.csdn.net/so/search?q=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&t=&u=&urw="
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "so.csdn.net"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 681
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "零基础DIY四轴飞行器超级详细保姆级教程（STM32F407ZGT6主控、WIFI图传、陀螺仪平衡、气压计/超声波定高、手机蓝牙控制等功能）_stm32f407四轴-CSDN博客"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://blog.csdn.net/qq_45204725/article/details/126166196?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171294055516800211576618%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171294055516800211576618&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-126166196-null-null.142^v100^pc_search_result_base4&utm_term=%E5%9B%9B%E8%BD%B4%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "blog.csdn.net"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/qq_45204725/article/details/126166196"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "htmledit_views"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "content_views"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 385.763916015625
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 645
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1803.300000000745
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 59
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 59
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "4jbbs51zkh",
+        "userId": "56"
+    }
+]

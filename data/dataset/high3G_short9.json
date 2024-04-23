@@ -1,0 +1,814 @@
+[
+    {
+        "desc": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%AE%89%E6%85%B030%E5%B2%81%E5%A4%B1%E4%B8%9A%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E6%83%B3%E5%A4%AA%E5%A4%9A&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 840
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1235
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712987009
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.baidu.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 721
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "爸爸安慰30岁失业女儿不要想太多_百度搜索"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%AE%89%E6%85%B030%E5%B2%81%E5%A4%B1%E4%B8%9A%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E6%83%B3%E5%A4%AA%E5%A4%9A&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%AE%89%E6%85%B030%E5%B2%81%E5%A4%B1%E4%B8%9A%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E6%83%B3%E5%A4%AA%E5%A4%9A&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/s"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "A"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "\n                "
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "a"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 150
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1401.5
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.7212303587311216
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 5
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 5
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-5",
+        "eventName": "Page Visit",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "p452erjlyo",
+        "userId": "56"
+    },
+    {
+        "desc": "Click LINK BUTTON 保安爸爸安慰30岁失业女儿不要想太多:我女儿差过吗?就她一...",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 840
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1235
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712987009
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.baidu.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 721
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "爸爸安慰30岁失业女儿不要想太多_百度搜索"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%AE%89%E6%85%B030%E5%B2%81%E5%A4%B1%E4%B8%9A%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E6%83%B3%E5%A4%AA%E5%A4%9A&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%AE%89%E6%85%B030%E5%B2%81%E5%A4%B1%E4%B8%9A%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E6%83%B3%E5%A4%AA%E5%A4%9A&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/s"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "A"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "\n                "
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "a"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 150
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1401.5
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.7212303587311216
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 5
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 5
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "p452erjlyo",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance good(LCP=1401.5ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 840
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1235
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712987009
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.baidu.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 721
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "爸爸安慰30岁失业女儿不要想太多_百度搜索"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%AE%89%E6%85%B030%E5%B2%81%E5%A4%B1%E4%B8%9A%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E6%83%B3%E5%A4%AA%E5%A4%9A&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%AE%89%E6%85%B030%E5%B2%81%E5%A4%B1%E4%B8%9A%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E6%83%B3%E5%A4%AA%E5%A4%9A&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/s"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "A"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "\n                "
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "a"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 150
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1401.5
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.7212303587311216
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 5
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 5
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-4",
+        "eventName": "Page Load",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "p452erjlyo",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance poor(CLS=0.7212303587311216)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 840
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1235
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712987009
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.baidu.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 721
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "爸爸安慰30岁失业女儿不要想太多_百度搜索"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%AE%89%E6%85%B030%E5%B2%81%E5%A4%B1%E4%B8%9A%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E6%83%B3%E5%A4%AA%E5%A4%9A&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%AE%89%E6%85%B030%E5%B2%81%E5%A4%B1%E4%B8%9A%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E6%83%B3%E5%A4%AA%E5%A4%9A&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/s"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "A"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "\n                "
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "a"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 150
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1401.5
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.7212303587311216
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 5
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 5
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-3",
+        "eventName": "CLS",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "p452erjlyo",
+        "userId": "56"
+    }
+]

@@ -1,0 +1,4062 @@
+[
+    {
+        "desc": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "2-5",
+        "eventName": "Page Visit",
+        "eventTypeId": "2",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click TD",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Performance good(LCP=512ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "2-4",
+        "eventName": "Page Load",
+        "eventTypeId": "2",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Performance good(FID=3.5999999940395355ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "2-2",
+        "eventName": "First Interaction",
+        "eventTypeId": "2",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click TD",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON Change From blue",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON Change From pink",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON Change From blue",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click BUTTON It is Red",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON Change From pink",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON Change From green",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON Change From blue",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON Change From white",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON Change From pink",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON Change From black",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON Change From pink",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click TD",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click TD",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click TD",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    },
+    {
+        "desc": "Click BUTTON It is Red",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712989815
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "eviltester.github.io"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 858
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "The Coloured Square Game"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://eviltester.github.io/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "eviltester.github.io"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/TestingApp/games/buggygames/the_coloured_square_game/colouredsquare.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "BUTTON"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": "theButton"
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "button"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 19.1953125
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 512
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3.5999999940395355
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 16
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 16
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "f2bod50fxc",
+        "userId": "23"
+    }
+]

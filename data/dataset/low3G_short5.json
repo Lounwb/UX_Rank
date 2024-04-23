@@ -1,0 +1,1042 @@
+[
+    {
+        "desc": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId=",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712979296
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.zhipin.com/web/geek/job?query=%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%9E%E4%B9%A0&city=101210100"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.zhipin.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 260
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "「初级嵌入式开发工程师（实习）招聘」_鸿泉物联网招聘-BOSS直聘"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId="
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId="
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.zhipin.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/job_detail/9bf2917e00722a9e1XF62dW9EldV.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "inner home-inner"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 57.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 6869.5
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 1.5
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.0012300386525674408
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 8
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 8
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-5",
+        "eventName": "Page Visit",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "9shcpmjc1s",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT 各大行业职位任你选首次验证通过即注册BO...",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712979296
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.zhipin.com/web/geek/job?query=%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%9E%E4%B9%A0&city=101210100"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.zhipin.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 260
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "「初级嵌入式开发工程师（实习）招聘」_鸿泉物联网招聘-BOSS直聘"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId="
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId="
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.zhipin.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/job_detail/9bf2917e00722a9e1XF62dW9EldV.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "inner home-inner"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 57.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 6869.5
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 1.5
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.0012300386525674408
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 8
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 8
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "9shcpmjc1s",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance poor(LCP=6869.5ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712979296
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.zhipin.com/web/geek/job?query=%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%9E%E4%B9%A0&city=101210100"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.zhipin.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 260
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "「初级嵌入式开发工程师（实习）招聘」_鸿泉物联网招聘-BOSS直聘"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId="
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId="
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.zhipin.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/job_detail/9bf2917e00722a9e1XF62dW9EldV.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "inner home-inner"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 57.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 6869.5
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 1.5
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.0012300386525674408
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 8
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 8
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-4",
+        "eventName": "Page Load",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "9shcpmjc1s",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance good(FID=1.5ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712979296
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.zhipin.com/web/geek/job?query=%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%9E%E4%B9%A0&city=101210100"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.zhipin.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 260
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "「初级嵌入式开发工程师（实习）招聘」_鸿泉物联网招聘-BOSS直聘"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId="
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId="
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.zhipin.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/job_detail/9bf2917e00722a9e1XF62dW9EldV.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "inner home-inner"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 57.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 6869.5
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 1.5
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.0012300386525674408
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 8
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 8
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-2",
+        "eventName": "First Interaction",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "9shcpmjc1s",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance good(CLS=0.0012300386525674408)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712979296
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.zhipin.com/web/geek/job?query=%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%9E%E4%B9%A0&city=101210100"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.zhipin.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 260
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "「初级嵌入式开发工程师（实习）招聘」_鸿泉物联网招聘-BOSS直聘"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId="
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.zhipin.com/job_detail/9bf2917e00722a9e1XF62dW9EldV.html?lid=8VKRXw9oVyw.search.23&securityId=5ndbnaNV3xmj6-a1-HGFyGIob29AuYHIoHeTsbzhO9T99zmXpqaBQYB4tP6VJOHb_VxvGZ_pxGkWwCOVG4USVml5dn0ZoRIYeZK_gieSn4GjlD4oCg~~&sessionId="
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.zhipin.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/job_detail/9bf2917e00722a9e1XF62dW9EldV.html"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "inner home-inner"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 57.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 6869.5
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 1.5
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.0012300386525674408
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 8
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 8
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-3",
+        "eventName": "CLS",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "9shcpmjc1s",
+        "userId": "56"
+    }
+]

@@ -1,0 +1,3122 @@
+[
+    {
+        "desc": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-5",
+        "eventName": "Page Visit",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance poor(FID=336.40000000037253ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-2",
+        "eventName": "First Interaction",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click LINK BUTTON 【至高天皮肤名单】阿卡丽、NOC、维鲁斯、火男、凯尔、马尔扎哈",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance good(LCP=812.2999999998137ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-4",
+        "eventName": "Page Load",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance needs-improvement(CLS=0.15755332264644561)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "2-3",
+        "eventName": "CLS",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click LINK BUTTON 该买吗？前两个倒是都玩",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    },
+    {
+        "desc": "Click TEXT",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1872
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712977001
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw4LDcsOQ%3D%3D"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "tieba.baidu.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 183
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "lol半价吧-百度贴吧--最新LOL折扣咨询--lol半价吧立足于每周lol半价资讯发布，服务于所有关于lol英雄联盟的周边各类折扣活动，并且及时向吧友提供折扣皮肤鉴赏，同时各类lol版本资讯及活动详情都"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://tieba.baidu.com/f?ie=utf-8&kw=LOL%E5%8D%8A%E4%BB%B7&fr=search"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "tieba.baidu.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/f"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "threadlist_pic_highlight j_m_pic_light"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 380.5
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 336.40000000037253
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 812.2999999998137
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.15755332264644561
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "True"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 131
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 131
+            }
+        },
+        "deviceGroupId": "12",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "5eioiukvhj",
+        "userId": "56"
+    }
+]

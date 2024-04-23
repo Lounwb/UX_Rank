@@ -1,0 +1,637 @@
+[
+    {
+        "desc": "Performance poor(LCP=6415.299999999814ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1314
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712980838
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": ""
+            }
+        },
+        "performanceAttr": {
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 6415.299999999814
+            },
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 31
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 3
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 1
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "[Vuetify] Image load failed\n\nsrc: https://penguin-stats.s3.amazonaws.com/backgrounds/zones/act33side_zone1.jpg\n\nfound in\n\n---> <VImg>\n       <VStepper>\n         <StageSelector>\n           <StatsByStage>\n             <StatsLayout>\n               <VContent>\n                 <VApp>\n                   <App>\n                     <Root>"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            }
+        },
+        "interactionAttr": {},
+        "deviceGroupId": "12",
+        "eventId": "2-4",
+        "eventName": "Page Load",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "rr9ncxk66k",
+        "userId": "56"
+    },
+    {
+        "desc": "Performance good(FID=3ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1314
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712980838
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": ""
+            }
+        },
+        "performanceAttr": {
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 6415.299999999814
+            },
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 31
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 3
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 1
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "[Vuetify] Image load failed\n\nsrc: https://penguin-stats.s3.amazonaws.com/backgrounds/zones/act33side_zone1.jpg\n\nfound in\n\n---> <VImg>\n       <VStepper>\n         <StageSelector>\n           <StatsByStage>\n             <StatsLayout>\n               <VContent>\n                 <VApp>\n                   <App>\n                     <Root>"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            }
+        },
+        "interactionAttr": {},
+        "deviceGroupId": "12",
+        "eventId": "2-2",
+        "eventName": "First Interaction",
+        "eventTypeId": "2",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "rr9ncxk66k",
+        "userId": "56"
+    },
+    {
+        "desc": "Error: [Vuetify] Image load failed\n\nsrc: https://penguin-stats.s3.amazonaws.com/backgrounds/zones/act33side_zone1.jpg\n\nfound in\n\n---> <VImg>\n       <VStepper>\n         <StageSelector>\n           <Report>\n             <ReportLayout>\n               <VContent>\n                 <VApp>\n                   <App>\n                     <Root>",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1314
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712980838
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": ""
+            }
+        },
+        "performanceAttr": {
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 6415.299999999814
+            },
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 31
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 3
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 1
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "[Vuetify] Image load failed\n\nsrc: https://penguin-stats.s3.amazonaws.com/backgrounds/zones/act33side_zone1.jpg\n\nfound in\n\n---> <VImg>\n       <VStepper>\n         <StageSelector>\n           <StatsByStage>\n             <StatsLayout>\n               <VContent>\n                 <VApp>\n                   <App>\n                     <Root>"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            }
+        },
+        "interactionAttr": {},
+        "deviceGroupId": "12",
+        "eventId": "3",
+        "eventName": "error",
+        "eventTypeId": "3",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "rr9ncxk66k",
+        "userId": "56"
+    },
+    {
+        "desc": "Error: [Vuetify] Image load failed\n\nsrc: https://penguin-stats.s3.amazonaws.com/backgrounds/zones/act33side_zone1.jpg\n\nfound in\n\n---> <VImg>\n       <VStepper>\n         <StageSelector>\n           <StatsByStage>\n             <StatsLayout>\n               <VContent>\n                 <VApp>\n                   <App>\n                     <Root>",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1314
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712980838
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": ""
+            }
+        },
+        "performanceAttr": {
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 6415.299999999814
+            },
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 31
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 3
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 1
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "[Vuetify] Image load failed\n\nsrc: https://penguin-stats.s3.amazonaws.com/backgrounds/zones/act33side_zone1.jpg\n\nfound in\n\n---> <VImg>\n       <VStepper>\n         <StageSelector>\n           <StatsByStage>\n             <StatsLayout>\n               <VContent>\n                 <VApp>\n                   <App>\n                     <Root>"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            }
+        },
+        "interactionAttr": {},
+        "deviceGroupId": "12",
+        "eventId": "3",
+        "eventName": "error",
+        "eventTypeId": "3",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "rr9ncxk66k",
+        "userId": "56"
+    },
+    {
+        "desc": "Error: [Vuetify] Image load failed\n\nsrc: https://penguin-stats.s3.amazonaws.com/backgrounds/zones/act33side_zone1.jpg\n\nfound in\n\n---> <VImg>\n       <VStepper>\n         <StageSelector>\n           <StatsByStage>\n             <StatsLayout>\n               <VContent>\n                 <VApp>\n                   <App>\n                     <Root>",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "China"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "36.24.25.89"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Hangzhou"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 1080
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1920
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "Windows"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Zhejiang"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 924
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1314
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712980838
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": ""
+            }
+        },
+        "performanceAttr": {
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 6415.299999999814
+            },
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 31
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 3
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 1
+            },
+            "firstInputDelay": {
+                "displayName": "FID",
+                "order": "8",
+                "value": 3
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "[Vuetify] Image load failed\n\nsrc: https://penguin-stats.s3.amazonaws.com/backgrounds/zones/act33side_zone1.jpg\n\nfound in\n\n---> <VImg>\n       <VStepper>\n         <StageSelector>\n           <StatsByStage>\n             <StatsLayout>\n               <VContent>\n                 <VApp>\n                   <App>\n                     <Root>"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            }
+        },
+        "interactionAttr": {},
+        "deviceGroupId": "12",
+        "eventId": "3",
+        "eventName": "error",
+        "eventTypeId": "3",
+        "projectId": "34",
+        "screenDirect": "",
+        "sessionId": "rr9ncxk66k",
+        "userId": "56"
+    }
+]

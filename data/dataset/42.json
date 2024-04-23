@@ -1,0 +1,2182 @@
+[
+    {
+        "desc": "https://www.bilibili.com/",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1425
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992654
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 539
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.bilibili.com/"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.bilibili.com/"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.bilibili.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "INPUT"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "input"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 470
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 1
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 1
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "获取webApp开关状态失败"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 1
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 24
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 24
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "12321"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": ""
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "2-5",
+        "eventName": "Page Visit",
+        "eventTypeId": "2",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "jqoja38a2l",
+        "userId": "23"
+    },
+    {
+        "desc": "Error: 获取webApp开关状态失败",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1425
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992654
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 539
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.bilibili.com/"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.bilibili.com/"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.bilibili.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "INPUT"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "input"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 470
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 1
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 1
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "获取webApp开关状态失败"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 1
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 24
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 24
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "12321"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": ""
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "3",
+        "eventName": "error",
+        "eventTypeId": "3",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "jqoja38a2l",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON 动画",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1425
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992654
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 539
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.bilibili.com/"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.bilibili.com/"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.bilibili.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "INPUT"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "input"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 470
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 1
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 1
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "获取webApp开关状态失败"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 1
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 24
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 24
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "12321"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": ""
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "jqoja38a2l",
+        "userId": "23"
+    },
+    {
+        "desc": "Performance good(CLS=0)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1425
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992654
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 539
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.bilibili.com/"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.bilibili.com/"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.bilibili.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "INPUT"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "input"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 470
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 1
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 1
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "获取webApp开关状态失败"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 1
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 24
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 24
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "12321"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": ""
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "2-3",
+        "eventName": "CLS",
+        "eventTypeId": "2",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "jqoja38a2l",
+        "userId": "23"
+    },
+    {
+        "desc": "Click path",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1425
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992654
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 539
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.bilibili.com/"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.bilibili.com/"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.bilibili.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "INPUT"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "input"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 470
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 1
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 1
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "获取webApp开关状态失败"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 1
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 24
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 24
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "12321"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": ""
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "jqoja38a2l",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON 专栏",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1425
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992654
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 539
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.bilibili.com/"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.bilibili.com/"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.bilibili.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "INPUT"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "input"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 470
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 1
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 1
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "获取webApp开关状态失败"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 1
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 24
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 24
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "12321"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": ""
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "jqoja38a2l",
+        "userId": "23"
+    },
+    {
+        "desc": "Click path",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1425
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992654
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 539
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.bilibili.com/"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.bilibili.com/"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.bilibili.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "INPUT"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "input"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 470
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 1
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 1
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "获取webApp开关状态失败"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 1
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 24
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 24
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "12321"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": ""
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "jqoja38a2l",
+        "userId": "23"
+    },
+    {
+        "desc": "Click TEXT 账号",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1425
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992654
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 539
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.bilibili.com/"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.bilibili.com/"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.bilibili.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "INPUT"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "input"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 470
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 1
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 1
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "获取webApp开关状态失败"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 1
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 24
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 24
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "12321"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": ""
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "jqoja38a2l",
+        "userId": "23"
+    },
+    {
+        "desc": "Click INPUT text",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1425
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992654
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 539
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.bilibili.com/"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.bilibili.com/"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.bilibili.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "INPUT"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "input"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 470
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 1
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 1
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "获取webApp开关状态失败"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 1
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 24
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 24
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "12321"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": ""
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "jqoja38a2l",
+        "userId": "23"
+    },
+    {
+        "desc": "Click INPUT password",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Hong Kong"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "203.145.89.5"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Pok Fu Lam"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Southern"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 1425
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992654
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 539
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://www.bilibili.com/"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://www.bilibili.com/"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "www.bilibili.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "INPUT"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": ""
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "input"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 470
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 1
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 1
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "errorText": {
+                "displayName": "Error Text",
+                "order": "19",
+                "value": "获取webApp开关状态失败"
+            },
+            "isError": {
+                "displayName": "Is Error",
+                "order": "20",
+                "value": "True"
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 1
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 24
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 24
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "12321"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": ""
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "jqoja38a2l",
+        "userId": "23"
+    }
+]

@@ -1,0 +1,2345 @@
+[
+    {
+        "desc": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "2-5",
+        "eventName": "Page Visit",
+        "eventTypeId": "2",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON 枕头",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    },
+    {
+        "desc": "Performance good(LCP=1416.199999988079ms)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "2-4",
+        "eventName": "Page Load",
+        "eventTypeId": "2",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    },
+    {
+        "desc": "Performance good(CLS=0)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "2-3",
+        "eventName": "CLS",
+        "eventTypeId": "2",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    },
+    {
+        "desc": "Performance good(CLS=0.0002962756212642964)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "2-3",
+        "eventName": "CLS",
+        "eventTypeId": "2",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON 女鞋",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    },
+    {
+        "desc": "Performance poor(CLS=0.35234531280692405)",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "2-3",
+        "eventName": "CLS",
+        "eventTypeId": "2",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    },
+    {
+        "desc": "Click LINK BUTTON xbox",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    },
+    {
+        "desc": "Click INPUT text",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    },
+    {
+        "desc": "Click TEXT 保鲜袋套罩",
+        "envAttr": {
+            "browser": {
+                "displayName": "Browser",
+                "order": "11",
+                "value": "Chrome"
+            },
+            "country": {
+                "displayName": "Country or Region",
+                "order": "2",
+                "value": "Unknown"
+            },
+            "ip": {
+                "displayName": "IP",
+                "order": "1",
+                "value": "Unknown"
+            },
+            "city": {
+                "displayName": "City",
+                "order": "4",
+                "value": "Unknown"
+            },
+            "deviceType": {
+                "displayName": "Device Type",
+                "order": "18",
+                "value": "Desktop"
+            },
+            "displayHeight": {
+                "displayName": "Screen Height",
+                "order": "13",
+                "value": 900
+            },
+            "displayWidth": {
+                "displayName": "Screen Width",
+                "order": "12",
+                "value": 1440
+            },
+            "operatingSystem": {
+                "displayName": "OS",
+                "order": "9",
+                "value": "MacOS"
+            },
+            "province": {
+                "displayName": "Province",
+                "order": "3",
+                "value": "Unknown"
+            },
+            "userAgent": {
+                "displayName": "User Agent",
+                "order": "22",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+            },
+            "viewportHeight": {
+                "displayName": "Window Height",
+                "order": "15",
+                "value": 691
+            },
+            "viewportWidth": {
+                "displayName": "Window Width",
+                "order": "14",
+                "value": 912
+            }
+        },
+        "pageAttr": {
+            "clientCreateTs": {
+                "displayName": "",
+                "value": 1712992944
+            },
+            "libVersion": {
+                "displayName": "SDK Version",
+                "order": "22",
+                "value": ""
+            },
+            "referrer": {
+                "displayName": "Previous URL",
+                "order": "15",
+                "value": "https://www.google.com/"
+            },
+            "referrerHost": {
+                "displayName": "Previous Domain",
+                "order": "16",
+                "value": "www.google.com"
+            },
+            "sdkType": {
+                "displayName": "SDK Type",
+                "order": "21",
+                "value": "WEB"
+            },
+            "sessionId": {
+                "displayName": "",
+                "order": "",
+                "value": 875
+            },
+            "title": {
+                "displayName": "Page Title",
+                "order": "10",
+                "value": ""
+            },
+            "uri": {
+                "displayName": "Page URI",
+                "order": "12",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "url": {
+                "displayName": "Page URL",
+                "order": "11",
+                "value": "https://ai.taobao.com/?pid=mm_3083598566_2683050047_114912400358&union_lens=lensId%3APUB%401685057505%402136745c_0d31_188554107ea_0759%4006&fun=tt&gad_source=1&gclid=EAIaIQobChMIhN2P_tO-hQMV39pMAh3PiAHrEAAYASAAEgJTDPD_BwE"
+            },
+            "urlHost": {
+                "displayName": "Page Domain",
+                "order": "13",
+                "value": "ai.taobao.com"
+            },
+            "urlPath": {
+                "displayName": "Page Path",
+                "order": "14",
+                "value": "/"
+            },
+            "cssSelector": {
+                "displayName": "Element Selector",
+                "order": "1",
+                "value": "DIV"
+            },
+            "elementClassName": {
+                "displayName": "Element Class Name",
+                "order": "9",
+                "value": "sug-item-title"
+            },
+            "elementId": {
+                "displayName": "Element ID",
+                "order": "2",
+                "value": ""
+            },
+            "elementName": {
+                "displayName": "Element Name",
+                "order": "8",
+                "value": "div"
+            },
+            "elementPosition": {
+                "displayName": "Element Position",
+                "order": "6",
+                "value": 263
+            }
+        },
+        "performanceAttr": {
+            "consoleInfos": {
+                "displayName": "Console Log Count",
+                "order": "14",
+                "value": 0
+            },
+            "consoleErrors": {
+                "displayName": "Console Error Count",
+                "order": "15",
+                "value": 0
+            },
+            "consoleWarnings": {
+                "displayName": "Console Warning Count",
+                "order": "16",
+                "value": 0
+            },
+            "largestContentfulPaint": {
+                "displayName": "LCP",
+                "order": "2",
+                "value": 1416.199999988079
+            },
+            "cumulativeLayoutShift": {
+                "displayName": "CLS",
+                "order": "1",
+                "value": 0.35234531280692405
+            }
+        },
+        "interactionAttr": {
+            "repeatClick": {
+                "displayName": "Multiple Clicks",
+                "order": "19",
+                "value": "False"
+            },
+            "errorCount": {
+                "displayName": "Error Count",
+                "order": "21",
+                "value": 0
+            },
+            "timeSincePageLoad": {
+                "displayName": "Duration Before Entering the Page",
+                "order": "17",
+                "value": 34
+            },
+            "timeSinceSessionStart": {
+                "displayName": "Time From Session Start",
+                "order": "18",
+                "value": 34
+            },
+            "inputText": {
+                "displayName": "Input Text",
+                "order": "20",
+                "value": "baoxiand1"
+            },
+            "inputTarget": {
+                "displayName": "Input Target",
+                "order": "21",
+                "value": "J_search_key"
+            }
+        },
+        "deviceGroupId": "43",
+        "eventId": "1",
+        "eventName": "click",
+        "eventTypeId": "0",
+        "projectId": "2",
+        "screenDirect": "",
+        "sessionId": "34iakwrptn",
+        "userId": "23"
+    }
+]
