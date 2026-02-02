@@ -98,17 +98,12 @@ public class UploadProgressWebSocketHandler {
                 //解析发送的报文
                 JSONObject jsonObject = JSON.parseObject(message);
                 // Validate that required fields exist
-                if (jsonObject == null || !jsonObject.containsKey("type") || !jsonObject.containsKey("sessionId")) {
+                if (!jsonObject.containsKey("type") || !jsonObject.containsKey("sessionId")) {
                     log.error("Invalid message format: missing required fields");
                     return;
                 }
                 String type = jsonObject.getString("type");
                 String sessionId = jsonObject.getString("sessionId");
-                // Validate type is one of the expected values
-                if (type == null || sessionId == null) {
-                    log.error("Invalid message format: null values");
-                    return;
-                }
                 if(type.equals("analyse")) {
                     PythonRunner.runPythonScriptInCondaEnvironment(sessionId);
                 }else if(type.equals("parse")) {
@@ -118,10 +113,10 @@ public class UploadProgressWebSocketHandler {
                 }else if(type.equals("report")){
                     PythonRunner.sleep(sessionId, "report", 3);
                 } else {
-                    log.warn("Unknown message type: " + type);
+                    log.warn("Unknown message type: {}", type);
                 }
             } catch (Exception e) {
-                log.error("json解析失败: " + e.getMessage());
+                log.error("json解析失败", e);
             }
         }
     }
