@@ -104,13 +104,13 @@ public class UploadProgressWebSocketHandler {
                 }
                 String type = jsonObject.getString("type");
                 String sessionId = jsonObject.getString("sessionId");
-                if(type.equals("analyse")) {
+                if("analyse".equals(type)) {
                     PythonRunner.runPythonScriptInCondaEnvironment(sessionId);
-                }else if(type.equals("parse")) {
+                }else if("parse".equals(type)) {
                     PythonRunner.sleep(sessionId, "parse", 1);
-                }else if(type.equals("rating")){
+                }else if("rating".equals(type)){
                     PythonRunner.sleep(sessionId, "rating", 3);
-                }else if(type.equals("report")){
+                }else if("report".equals(type)){
                     PythonRunner.sleep(sessionId, "report", 3);
                 } else {
                     log.warn("Unknown message type: {}", type);
