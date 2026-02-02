@@ -1,7 +1,7 @@
 package com.lounwb.uxback.web.handler;
 
-import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSON;
+import com.alibaba.fastjson2.JSONObject;
 import com.lounwb.uxback.web.tasker.PythonRunner;
 import com.lounwb.uxback.web.tasker.ScheduledTask;
 import lombok.RequiredArgsConstructor;
@@ -97,8 +97,18 @@ public class UploadProgressWebSocketHandler {
             try {
                 //解析发送的报文
                 JSONObject jsonObject = JSON.parseObject(message);
-                String type = (String) jsonObject.get("type");
-                String sessionId = (String) jsonObject.get("sessionId");
+                // Validate that required fields exist
+                if (jsonObject == null || !jsonObject.containsKey("type") || !jsonObject.containsKey("sessionId")) {
+                    log.error("Invalid message format: missing required fields");
+                    return;
+                }
+                String type = jsonObject.getString("type");
+                String sessionId = jsonObject.getString("sessionId");
+                // Validate type is one of the expected values
+                if (type == null || sessionId == null) {
+                    log.error("Invalid message format: null values");
+                    return;
+                }
                 if(type.equals("analyse")) {
                     PythonRunner.runPythonScriptInCondaEnvironment(sessionId);
                 }else if(type.equals("parse")) {
@@ -107,9 +117,11 @@ public class UploadProgressWebSocketHandler {
                     PythonRunner.sleep(sessionId, "rating", 3);
                 }else if(type.equals("report")){
                     PythonRunner.sleep(sessionId, "report", 3);
+                } else {
+                    log.warn("Unknown message type: " + type);
                 }
             } catch (Exception e) {
-                log.error("json解析失败");
+                log.error("json解析失败: " + e.getMessage());
             }
         }
     }

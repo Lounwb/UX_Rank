@@ -1,0 +1,6 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 20MB
+      max-request-size: 20MB
+      location: E:\projects\UX-rank\report             # 设置上传的临时目录
